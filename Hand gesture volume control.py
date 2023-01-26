@@ -32,7 +32,6 @@ volBar=400
 pTime = 0
 cTime = 0
 
-
 while True:
 
     success, img = cap.read()
