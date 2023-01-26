@@ -1,5 +1,5 @@
 # Computer-Vision
-Short python projects, work in progress.
+Short python training projects, work in progress.
 Python **3.7.9**
 
 Libraries:
