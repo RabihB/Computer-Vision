@@ -4,13 +4,13 @@ Python **3.7.9**
 
 Libraries:
 
-OpenCV : Computer Vision library | pip install cv2
-mediapipe : Trained recognition tool | pip install mediapipe
-pyzbar : Trained QR and BAR code reader | pip install pyzbar
-numpy : Mathmatecal computing | pip install numpy
+OpenCV : Computer Vision library | pip install cv2 \
+mediapipe : Trained recognition tool | pip install mediapipe \
+pyzbar : Trained QR and BAR code reader | pip install pyzbar \
+numpy : Mathmatecal computing | pip install numpy \
 pycaw : | Core Audio Windows | pip install pycaw
 
-Note: mediapipe not yet compatible with Python 3.7+
+**Note: mediapipe not yet compatible with Python 3.7+**
 
 
 Descriptions:
